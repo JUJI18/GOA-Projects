@@ -10,7 +10,7 @@ reversed_fruit = []
 
 
 while my_list:
-    item = my_list.pop()  # ამოიღე ბოლო ელემენტი
-    reversed_fruit.append(item)  # დაამატე გადატრიალებულ სიაში
+    item = my_list.pop()
+    reversed_fruit.append()
 
 print(reversed_fruit)
